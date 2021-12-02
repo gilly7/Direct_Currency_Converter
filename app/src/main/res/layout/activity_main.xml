@@ -46,7 +46,7 @@
             app:layout_constraintVertical_bias="0.0" />
 
         <TextView
-            android:id="@+id/txtCalaculator"
+            android:id="@+id/txtCalculator"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/converter"
@@ -72,7 +72,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.106"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/txtCalaculator"
+            app:layout_constraintTop_toBottomOf="@+id/txtCalculator"
             app:layout_constraintVertical_bias="0.031" />
 
         <com.jaredrummler.materialspinner.MaterialSpinner
